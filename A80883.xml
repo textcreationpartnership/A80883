@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppie of Lieut. Gen. Cromwels letter; concerning the taking of Winchester Castle: with a list of the particulars. Where was taken; 7. peeces of ordnance. 17. barrels of powder. Musket bullets 2000. weight. Match 800. weight. Beef &amp; pork, 38. hogsheads. 15000. weight of cheese. 800. pound of butter. Wheat &amp; meal, 140. quarters. Bisket, 7000. weight. Strong beere, 112. hogsheads. French wine, 3. hogsheads. Salt, 10. quarters. Oatmeal, 20. bushels. Candle, 70. dozen. Wood, 30. load. Charcoal, 40. quarters. Seacole, 30. bushels, for the smith. Sheep, 14. Fresh beief [sic], 4 quarters. Together, with Mr. Peters report made to the House of Commons, from Lieutenant Gen. Cromwell. Commanded to be printed, and published, according to order.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80883</idno>
+            <idno type="STC">Wing C7053</idno>
+            <idno type="STC">Thomason E304_12</idno>
+            <idno type="STC">ESTC R200306</idno>
+            <idno type="EEBO-CITATION">99861113</idno>
+            <idno type="PROQUEST">99861113</idno>
+            <idno type="VID">158778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158778)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E304[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppie of Lieut. Gen. Cromwels letter; concerning the taking of Winchester Castle: with a list of the particulars. Where was taken; 7. peeces of ordnance. 17. barrels of powder. Musket bullets 2000. weight. Match 800. weight. Beef &amp; pork, 38. hogsheads. 15000. weight of cheese. 800. pound of butter. Wheat &amp; meal, 140. quarters. Bisket, 7000. weight. Strong beere, 112. hogsheads. French wine, 3. hogsheads. Salt, 10. quarters. Oatmeal, 20. bushels. Candle, 70. dozen. Wood, 30. load. Charcoal, 40. quarters. Seacole, 30. bushels, for the smith. Sheep, 14. Fresh beief [sic], 4 quarters. Together, with Mr. Peters report made to the House of Commons, from Lieutenant Gen. Cromwell. Commanded to be printed, and published, according to order.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Iane Coe.,</publisher>
+                  <pubPlace>Octob. 9. London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages numbers 4-5 repeated in page numbering.</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winchester (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns. --  Early works to 1800. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158778:1" rendition="simple:additions"/>
+            <p>A COPPIE OF Lieut. Gen. Cromwels Letter; Concerning the taking of WINCHESTER Caſtle: With a Liſt of the particulars.</p>
+            <p>
+               <hi>Where was taken;</hi>
+               <list>
+                  <item>7. Peeces of Ordnance.</item>
+                  <item>17. Barrels of powder.</item>
+                  <item>Musket bullets 2000. weight.</item>
+                  <item>Match 800. weight.</item>
+                  <item>Beef &amp; Pork, 38. hogſheads.</item>
+                  <item>15000. weight of Cheeſe.</item>
+                  <item>800. pound of Butter.</item>
+                  <item>Wheat &amp; meal, 140. quarters.</item>
+                  <item>Bisket, 7000. weight.</item>
+                  <item>Strongbeere, 112. hogſheads.</item>
+                  <item>French Wine, 3. hogſheads.</item>
+                  <item>Salt, 10. quarters.</item>
+                  <item>Oatmeal, 20. buſhels.</item>
+                  <item>Candle, 70. dozen.</item>
+                  <item>Wood, 30. load.</item>
+                  <item>Charcoal, 40. quarters.</item>
+                  <item>Seacole, 30. buſhels, for the Smith.</item>
+                  <item>Sheep, 14.</item>
+                  <item>Freſh Beief, 4. quarters.</item>
+               </list>
+            </p>
+            <p>Together, with Mr. <hi>Peters</hi> report made to the Houſe of Commons, from Lieutenant Gen. <hi>Cromwell.</hi>
+            </p>
+            <p>
+               <hi>Commanded to be printed, and is publiſhed, according to Order.</hi>
+            </p>
+            <p>
+               <hi>Octob.</hi> 9. London, printed by <hi>Iane Goe.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:158778:2"/>
+            <head>Mr. <hi>PETERS</hi> his report, made to the Houſe of Commons.</head>
+            <p>
+               <seg rend="decorInit">M</seg>R. <hi>Peters,</hi> Miniſter to the Army, being ſent from Lieu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>nant Generall <hi>Cromwell</hi> from Wincheſter, came to the Houſe of Commons, with the Lieutenant Generals man attending him to the Houſe; with a Letter from his Ma<g ref="char:EOLhyphen"/>ſter to the Speaker, concerning the taking of Wincheſter Caſtle; and the Houſe gave Mr. <hi>Spavin,</hi> the Lieutenant Generals Secretary, 50. l. And forthwith called Mr. <hi>Peters</hi> into the Houſe, who went in attended with the Sergeant at Arms with the Mace before him; where the Speaker giving him thankes for his unwearied labours in the preſervation of this Kingdome, and aſſuring him that the Houſe took care for him, who had ſo often brought them good tidings<g ref="char:punc">▪</g> and hazarded himſelf ſo much; and told him, that he had liberty to ſpeak freely, what he had in commands from the Lieutenant Generall.</p>
+            <p>Mr. <hi>Peters</hi> ſpake in the Houſe, the ſumme of whoſe diſcourſe, was as followeth.</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <opener>
+                     <salute>Mr. Speaker,</salute>
+                  </opener>
+                  <p>I Came from Wincheſter the laſt night late, but I had come ſooner, had not my L. Ogle, and his company been ſo unwilling to part with their ſack and ſtrong beer, of which they drank ſo liberally at their farwel, that few of them (as it is their manner) could get up their horſes without help, for the agreement was for their marching out at 3. a Clock but it proved la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, through their debaughchery.</p>
+                  <p>My Commands (from the Lieutenant Generall) are to give this ho<g ref="char:EOLhyphen"/>nourable houſe a further narative of the Caſtle of Wincheſter, being up<g ref="char:EOLhyphen"/>on t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e place and a ſpectator of Gods good hand in the whole work, as al<g ref="char:EOLhyphen"/>ſo to preſent his humble requeſt to the houſe in ſome perticulars; and be<g ref="char:EOLhyphen"/>fore I ſpeak to either of them, if gratitude it ſelfe were not ſometimes un<g ref="char:EOLhyphen"/>ſeaſonable, I would (in my own name and the name of many thouſands) <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ume this honourable houſe moſt humble thankes for our Lieutenant
+<pb n="3" facs="tcp:158778:2"/> Generall, in that you ſuffer (with patience) the vacanſie of his place in this Houſe.</p>
+                  <p>My wiſh is, that his ſpirit and that publike Engliſh ſpirit of <hi>Hamden Pim,</hi> and <hi>Str<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> may be doubled upon your new elected members.</p>
+                  <p>For our Lieutenant Generall, this I muſt ſay: that Iudgement and af<g ref="char:EOLhyphen"/>fections in him are ſtriving for the maſtery, I have rarely ſeen ſuch heights, and depths conſent in one man, that when I looke upon the 2. Cheefes of our Army: I remember <hi>Guſtavus Adolphus</hi> and <hi>Oxenſtern,</hi> and I wiſh our hopes in theſe nay not be ſo ſhort lived as the Germans hopes in them, were.</p>
+                  <p>More I might ſay, concerning him that ſent me, who is ſo farre a<g ref="char:EOLhyphen"/>bove the world, and lives ſo little upon the ſtates pay, and mindes him<g ref="char:EOLhyphen"/>ſelfe ſo little; but that he hath enjoyned ſilence to all his friends, in any thing thar might turne to his onw prayſe.</p>
+                  <p>For the Caſtle of Wincheſter: we begun our batteries upon Saturday morning, which wrought ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctually; that a breach (wherein 30. men might go a breaſt) was made: The enemy ſallyed out, and beat us off from our gunnes which were ſoon recovered againe, we plaid then with our Granadoes from our Morter peeces, with the beſt effect that I have ſeene, which broake down the Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſion houſe in many places, cutt off a Com<g ref="char:EOLhyphen"/>miſſary of theirs by the thighs, the moſt auſtere, and wretched inſtrument in that Country; and at laſt blew up their flagg of defiance into the ayre, and toarre the pinacle in peeces upon which it ſtood.</p>
+                  <p>Summons being ſent as we entred upon this work, was refuſed by the L. <hi>Ogle</hi> their Governor; and another ſummons God ſent them in the mid<g ref="char:EOLhyphen"/>dle of our batterie; his Lady (to whom our Lievtenant Generall had gi<g ref="char:EOLhyphen"/>ven leave to come forth, and had gone ſome miles out of the town) dyed; by whom the Governour had during her life, one thouſand pounds a y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar with her, loſt by her death.</p>
+                  <p>The chiefeſt ſtreet of the town the enemy playd upon: whereby divers paſſengers wer wounded, and ſome killed, in which ſtreet my quarters being; I have that cauſe to bleſſe God for my preſervation.</p>
+                  <p>The Lords day we ſpent in preaahing and prayer, whileſt our gunners were battering, and at 8. a clock at night we received a letter from the Governour for a treaty, which I have brought with me.</p>
+                  <p>Collonel <hi>H<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>mond,</hi> and Major Generall <hi>Harriſon</hi> were ſent into t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Caſtle on our party, Sir <hi>Edward Ford,</hi> and a Major of theirs, were ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to us.</p>
+                  <p>The whole night was ſpent about it, our men ſtanding upon ſome ſpe<g ref="char:EOLhyphen"/>ciall
+<pb n="4" facs="tcp:158778:3"/> termes with them, and very deſirous were we to to accept Sir <hi>Edward Ford:</hi> and Bennit to be our priſoners, by 8. a clock on munday morning it was a greed they ſhould depart out of the Caſtle at 5, a clock according to the Articles which the Lieutenant Generall hath ſent by me.</p>
+                  <p>I was forthwith ſent into the Caſtle to take a view of it before my de<g ref="char:EOLhyphen"/>parture, where I found a peece of ground improved to the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt advan<g ref="char:EOLhyphen"/>tage, for when we had entred by our batterie we had 6. diſtinct works, and a draw bridge to paſſe through; ſo that it was doubtl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe a very ſtrong piece, very well victualled, as appears by this note, which I crave leave to reade.</p>
+                  <p>
+                     <note place="inline">
+                        <hi>Then Mr.</hi> Peters <hi>read the ſaid Note, of which here followeth the Copie.</hi>
+                     </note>
+                  </p>
+                  <q>
+                     <list>
+                        <item>7. Peeces of Ordnance.</item>
+                        <item>17. Barrels of Powder.</item>
+                        <item>2000. weight of Musket Bullets.</item>
+                        <item>800. Weight of Ma ch.</item>
+                        <item>38. Hogſheads of Bief and Pork.</item>
+                        <item>15000. weight of Cheeſe.</item>
+                        <item>800. pound of Butter.</item>
+                        <item>140. quarters of Wheat, and Meal.</item>
+                        <item>7000. weight of Biskets.</item>
+                        <item>112. Hogſheads of ſtrong Beere.</item>
+                        <item>3. Hogſheads of French Wine.</item>
+                        <item>10. Quarters of Salt.</item>
+                        <item>20. Buſhel of Oatmeal.</item>
+                        <item>70. Dozen of Candles.</item>
+                        <item>30. Load of Wood.</item>
+                        <item>40. Quarters of Charcoal.</item>
+                        <item>30. Buſhels of Seacoal, for the Smith.</item>
+                        <item>14. Sheep.</item>
+                        <item>4. quarters of freſh Bief.</item>
+                     </list>
+                  </q>
+                  <p>
+                     <note place="inline">
+                        <hi>Then Mr.</hi> Peters <hi>went on in his Speech, as followeth.</hi>
+                     </note>
+                  </p>
+                  <p>
+                     <hi>Mr. Speaker,</hi> The Caſtle was manned with near 700. men, divers of them Reformadoes, the chief men I ſaw there were Viſcount <hi>Ogle</hi> their Governour, Sir <hi>Iohn Paulet,</hi> an old ſouldier, Sir <hi>William Courtney,</hi> and Collonel <hi>Bennet,</hi> alſo Dr. <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rle</hi> the Biſhop of Wincheſter, who came forth to our quarters in the morning, with whom I ſpent an hour or two, who with teares and much importunity, deſired the Lieutenant Generals favour, to excuſe his not accepting of the offer that he made unto him at his firſt entring the Town; he deſired of me a guard to his lodging, leſt the ſouldiers ſhould uſe violence to him and his Chaplain, who were in their long Gowns and Caſſocks, and he was accordingly ſafely convoyed home.</p>
+                  <p>I do verily believe, that they will hardly bring to Woodſtock 200. men: It did much aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct us, to obſerve what an Enemy we had to deal with, who themſelves being judges, could not chuſe but ſay, that our God is not as their God. And this is the 19. Gariſon hath been taken this Summer, through Gods goodneſſe. And he that will not take his
+<pb n="5" facs="tcp:158778:3"/> ſhare in this common joy, is either ſtupid or envious.</p>
+                  <p>Our Brigade is marched to Langford houſe, by Salisbure, which I hope will not be long work, and then that Country will be clean, and our men ready to wait our Generals further Commands. (Doub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leſſe) w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re not the year ſo farre ſpent, and our foot thereby not able to lye abroad, we might ſoon look for the finiſhing of this Warre.</p>
+                  <p>The fruits of what is already done are great, amongſt the reſt, what I ſaw upon the way; all ſorts travelling upon their occaſions freely to their own homes, with Carriages and Wanes: many Innes filled with gueſts. The former face of things returning upon us in ſeverall kindes; yea, now we may ride with ſafety, from Dover to the middle of Devonſhire.</p>
+                  <p>The Commiſſion I have to this Honourable Houſe, from the Lieute<g ref="char:EOLhyphen"/>nant Generall, which he delivered unto me with much vehemencie and ſence, was this.</p>
+                  <p n="1">1. That you ſhould be truly informed concerning the payment of the Army, it being generally reported, they are compleatly paid, and that Army conſtantly injoyned to pay their quarters, in which there hath been much care taken, and by which much hath been gained upon the Countries. It is moſt certain, that of twenty one Weeks, the Horſe are twelve weeks behinde; and the foot have likewiſe their proportion of ſorrow, through want of pay. I know threeſcore in one company lying ſick, by eating of raw roots and green Apples, through want of money to buy better food.</p>
+                  <p>It is moſt humbly deſired, that they may not ſuff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r by the State, who are willing to do ſo much for it; the hands and feet of a naturall body, are not more apt move for an aking head, then this Army (in every part of it, are) for this afflicted Kingdome.</p>
+                  <p>I have often wiſhed (if it might be thought good to your wiſe<g ref="char:EOLhyphen"/>domes) that every County (according to the ſtore of money ſeſſed upon every County) might know their ſouldiers, and a Committee of their own reſide in the Army to pay them, it being the way of the Low-Countries; whereby the Warre hath been ſo well upheld and con<g ref="char:EOLhyphen"/>tinued: The frame whereof I have long ſince given in writing, to ſome Members of this Honourable Houſe.</p>
+                  <p n="2">2. The ſecond thing I have in command is, That you be truly infor<g ref="char:EOLhyphen"/>med about your recruits of men; when we have been promiſed and ex<g ref="char:EOLhyphen"/>pected 4000. we have received but 900. And upon Friday laſt, when we were promiſed 3000. and did not expect leſſe, we received but fifteen hundred.</p>
+                  <pb n="4" facs="tcp:158778:4"/>
+                  <p>It may be eaſily conceived that ſuch an active Army muſt needs be a great ſpender of men by ſickneſſe and otherwiſe, though bleſſed be God it appeares at every ſiege, the enemies ſword cuts not off many: at this of Wincheſter I know not of above 2 or 3 ſouldiers loſt.</p>
+                  <p>Your recruits are ſo chargeable in their bringing to the Army, that with halfe the mony our officers would recruite themſelves. And were this Army recruited to your firſt intention of 21000. not only England, but I hope Ireland would ſoon reap the fruits of their labours.</p>
+                  <p>The laſt thing I take boldneſſe to commend to this Honourable Houſe is, that the Garriſons wee take in, may bee for God, this Honourable Houſe, and the whole Kingdome, my meaning is, that forthwith ſome courſe may be taken, for the many ignorant and heatheniſh ſoules in and about the places aforeſaid. This city is glut<g ref="char:EOLhyphen"/>ted, the contry is famiſhed; we are quarrelling here about the covering of the houſe, the foundations whereof are not yet laid in the countrey. In this I am the bolder, becauſe of the cryes of the people to me in the places where I have been; and ſome of Wincheſter at my departure cry<g ref="char:EOLhyphen"/>ing for help with them of Macedonia. All which I repreſent to the moſt ſerious thoughts of this Honourable Houſe, and the bleſſing of peace be upon all your Councells, AMEN.</p>
+               </body>
+            </floatingText>
+            <p>Here followeth a Copy of divers ſeverall papers brought to the Parli<g ref="char:EOLhyphen"/>ament by Mr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Peters</hi> from Lievtenant Generall <hi>Cromwell.</hi>
+            </p>
+            <p>The Copy of the ſeverall Letters that came from Viſcount <hi>Ogle</hi> the Gov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnour of the Caſtle, during the time of the ſiege.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I have received a ſad ſummons, and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſire, you that this incloſed may be conveyed from</hi>
+                  </p>
+                  <closer>
+                     <dateline>WINTON Caſtle,
+<date>4. Oct. 1645.</date>
+                     </dateline>
+                     <signed>Your Servant, OGLE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>Vpon the opening of your ſad meſſage by your Drum, there was a miſtake between your men and mine, for there was a man making an eſcape from the caſtle, at whom your men and mine did ſhoot, not knowing in the dark who he was; and the man is killed.</p>
+                  <closer>
+                     <signed>OGLE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I have received formerly a Letter from you, wherein you de<g ref="char:EOLhyphen"/>ſire to avoyd the effuſion of chriſtian blood, to which you received my Anſwer, that I was willing as your ſelfe. But having received no reply to actuate your deſires, I have thought fit to deſire a Treaty; whereby
+<pb n="5" facs="tcp:158778:4"/> we may pitch upon ſome meanes, both for the effecting of that, and the preſervation of this place. And that I may receive your letter with all conveniency, I deſire that neither Officer or Souldier of your p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rty may come off their Guards, and I ſhall take the like courſe with mine.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Winten Caſtle, at eight at night,</hi>
+                        <date>October 5. 1645.</date>
+                     </dateline>
+                     <salute>Sir,</salute>
+                     <signed> I am Your Humble Servant, OGLE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="articles">
+               <body>
+                  <head>
+                     <hi>Caſtrum WINTON,</hi> Articles agreed upon the <hi>5</hi> of <hi>October, 1645.</hi> between the Right Honourable <hi>William</hi> Viſcount <hi>Ogle,</hi> Governour of the Garriſon of the Caſtle of <hi>Winton</hi> of the one part, and Colonell <hi>Robert H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m<g ref="char:EOLhyphen"/>mond,</hi> and Major <hi>Thomas Harriſon</hi> on the behalfe of Lievtenant Generall <hi>Oliver Cromwell</hi> of the other party; for the ſurrender of the ſaid Caſtle.</head>
+                  <p n="1">1. That the Lord <hi>Ogle</hi> ſhall deliver up the Caſtle of Wincheſter, with all the Armes, Ordnance, Ammunition, Proviſion, and all Function of Warre whatſoever therein, without any imbeazelment waſt or ſpoyle, unto that Officer or Officers as ſhall be thereunto appointed by the ſaid Lievtenant Generall, to morrow being Monday the 6 of Octob. by 3 of the clock, after noon.</p>
+                  <p n="2">2. That the ſaid Lord <hi>Ogle</hi> ſhall have his own colours, and one hun<g ref="char:EOLhyphen"/>dred fixt Armes for his Guard, and one hundred men to carry them.</p>
+                  <p n="3">3. That the Lord <hi>Ogle</hi> and all the Officers in Commiſſion, ſhall march out of the ſaid Caſtle with their own horſe and arms, and their own pro<g ref="char:EOLhyphen"/>per goods, unto Woodſtock, thither they ſhall be ſafely convoyed.</p>
+                  <p n="4">4. That there ſhall be allowed to the Lord Ogle and his Officers, ſix Carriages for tranſporting of their goods aforeſaid.</p>
+                  <p n="5">5, That all Officers, Gentlemen, Clergy-men, and Inhabitants of the city of Wincheſter, and all Officers within the Guards (deſiring it) may be at their own time free from all violence and injury of the Parliaments forces.</p>
+                  <p n="6">6. That the Lord <hi>Ogle</hi> ſhall give ſufficient Hoſtages for the perfor<g ref="char:EOLhyphen"/>mance of the Aricles here conſtituted on their part to be performed, alſo for the ſafe return of the Convoy.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:158778:5"/>
+                  <head>A Copy of Lievtenant Genrall <hi>Cromwels</hi> Letter.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>J</hi> Came to Wincheſter on the Lords day being the <hi>28</hi> of <hi>September,</hi> with Colonell <hi>Pickering;</hi> commanding his own, Colonell <hi>Mountagues,</hi> and Sir <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rdres Walles</hi> Regiments; after ſome diſpute with the Governour, we en<g ref="char:EOLhyphen"/>tred the town, I ſummoned the caſtle, was denyed, whereupon we fell to pre<g ref="char:EOLhyphen"/>pare our b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>teries, which we could not perf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct (ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me of our Guns being out of order) unt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll Fri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay following, our Battery was ſix Guns; which being fini<g ref="char:EOLhyphen"/>ſhed, aft<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r one fier<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g of them round, I ſent him a ſecond Summons for a trea<g ref="char:EOLhyphen"/>ty, which they refuſed, whereupon we went on with our worke, and made a breach in the wall near the blacke Tower; which after about <hi>200</hi> ſhott wee thought ſtormable, and purpoſed on Monday morning to attempt it. On Sun<g ref="char:EOLhyphen"/>day night about ten of the clocke, The Governour beat a parley, deſiring to treat, I agreed unto it, and ſent Colnoell <hi>Hammond</hi> and Major <hi>Harriſon</hi> in to him, who agreed upon theſe encloſed Articles.</p>
+                  <p>
+                     <hi>Sir,</hi> This is the addition of another mercy, you ſee God is not weary in doing you good. I confeſſe <hi>Sir,</hi> his favour to you is as viſible, when he comes by his power upon the hearts of your enemies, making them quit places of ſtrength to to you, as when he gives courage to your ſouldiers to attempt hard things, his goodneſſe is in this much to be acknowledged, For the caſtle was well manned with <hi>680</hi> horſe and foot, there being neare <hi>200</hi> Gentlemen, Officers, and their Servants; well victualled with <hi>15000</hi> waie of cheeſe, very great ſtore of wheat and beer, near <hi>20</hi> barrels of powder, <hi>7</hi> peeces of Cannon, the workes were exceeding good, and ſtrong. It is very likely it would have coſt much blood to have gained it by ſtorme, we have not loſt twelve men: This is repea<g ref="char:EOLhyphen"/>ted to you that God may have all the praiſe, for it is all his due.</p>
+                  <closer>
+                     <salute>Sir <hi>I reſt</hi>
+                     </salute>
+                     <signed>
+                        <hi>Your moſt humble Servant,</hi> Oliver Cromwell.</signed>
+                  </closer>
+                  <postscript>
+                     <head>Poſt-ſcript.</head>
+                     <p>
+                        <hi>For other things that I am not willing to write, I have intru<g ref="char:EOLhyphen"/>ſted Mr.</hi> Peters <hi>to communicate to you, who was within the place, and an eye-witneſſe to all our proceedings, and knowes the true ſtate of our Army; whom I doe pray you to heare.</hi>
+                     </p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
